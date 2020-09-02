@@ -1,0 +1,204 @@
+{
+  "tests": [
+    {
+      "name": "testSecondsPastMidnight1",
+      "setup": "",
+      "run": "gradle test --tests TestUnit1ProblemSet.testSecondsPastMidnight1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 2
+    },
+    {
+      "name": "testSecondsPastMidnight2",
+      "setup": "",
+      "run": "gradle test --tests TestUnit1ProblemSet.testSecondsPastMidnight2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 2
+    },
+    {
+      "name": "testSecondsPastMidnight3",
+      "setup": "",
+      "run": "gradle test --tests TestUnit1ProblemSet.testSecondsPastMidnight3",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 2
+    },
+    {
+      "name": "testSecondsPastMidnight4",
+      "setup": "",
+      "run": "gradle test --tests TestUnit1ProblemSet.testSecondsPastMidnight4",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 2
+    },
+    {
+      "name": "testSecondsPastMidnight5",
+      "setup": "",
+      "run": "gradle test --tests TestUnit1ProblemSet.testSecondsPastMidnight5",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 2
+    },
+    {
+      "name": "testTimestamps1",
+      "setup": "",
+      "run": "gradle test --tests TestUnit1ProblemSet.testTimestamps1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 2
+    },
+    {
+      "name": "testTimestamps2",
+      "setup": "",
+      "run": "gradle test --tests TestUnit1ProblemSet.testTimestamps2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 2
+    },
+    {
+      "name": "testTimestamps3",
+      "setup": "",
+      "run": "gradle test --tests TestUnit1ProblemSet.testTimestamps3",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 2
+    },
+    {
+      "name": "testTimestamps4",
+      "setup": "",
+      "run": "gradle test --tests TestUnit1ProblemSet.testTimestamps4",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 2
+    },
+    {
+      "name": "testTimestamps5",
+      "setup": "",
+      "run": "gradle test --tests TestUnit1ProblemSet.testTimestamps5",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 2
+    },
+    {
+      "name": "testStudentDesks1",
+      "setup": "",
+      "run": "gradle test --tests TestUnit1ProblemSet.testStudentDesks1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 2
+    },
+    {
+      "name": "testStudentDesks2",
+      "setup": "",
+      "run": "gradle test --tests TestUnit1ProblemSet.testStudentDesks2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 2
+    },
+    {
+      "name": "testStudentDesks3",
+      "setup": "",
+      "run": "gradle test --tests TestUnit1ProblemSet.testStudentDesks3",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 2
+    },
+    {
+      "name": "testStudentDesks4",
+      "setup": "",
+      "run": "gradle test --tests TestUnit1ProblemSet.testStudentDesks4",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 2
+    },
+    {
+      "name": "testStudentDesks5",
+      "setup": "",
+      "run": "gradle test --tests TestUnit1ProblemSet.testStudentDesks5",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 2
+    },
+    {
+      "name": "testAnalogClock1",
+      "setup": "",
+      "run": "gradle test --tests TestUnit1ProblemSet.testAnalogClock1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 2
+    },
+    {
+      "name": "testAnalogClock2",
+      "setup": "",
+      "run": "gradle test --tests TestUnit1ProblemSet.testAnalogClock2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 2
+    },
+    {
+      "name": "testAnalogClock3",
+      "setup": "",
+      "run": "gradle test --tests TestUnit1ProblemSet.testAnalogClock3",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 2
+    },
+    {
+      "name": "testAnalogClock4",
+      "setup": "",
+      "run": "gradle test --tests TestUnit1ProblemSet.testAnalogClock4",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 2
+    },
+    {
+      "name": "testAnalogClock5",
+      "setup": "",
+      "run": "gradle test --tests TestUnit1ProblemSet.testAnalogClock5",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 2
+    }
+  ]
+}
