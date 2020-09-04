@@ -10,7 +10,15 @@ class SecondsPastMidnight {
         int number = scanner.nextInt();
 
         //Your code goes here
+        final int SEC_IN_MIN = 60;
+        final int SEC_IN_HOUR = 3600;
+        int hourSince = -1;
+        int minSince = -1;
 
+        hourSince = secInput / SEC_IN_HOUR;
+        minSince = secInput / SEC_IN_MIN;
+
+        System.out.println(hourSince + " " + minSince);
 
         // closing the scanner object
         scanner.close();
