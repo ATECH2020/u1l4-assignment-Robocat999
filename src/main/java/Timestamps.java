@@ -18,8 +18,20 @@ class Timestamps {
         /*
          *  your code goes here
          */
+        int hourDif;
+        int minDif;
+        int secDif;
+        int totalSecs;
+        
+        hourDif = hours2 - hours1;
+        minDif = minutes2 - minutes1;
+        secDif = seconds2 - seconds1;
 
+        hourDif = (hourDif * 60) * 60;
+        minDif = minDif * 60;
 
+        totalSecs = secDif + minDif + hourDif;
+        System.out.println(totalSecs);
         // closing the scanner object
         scanner.close();
     }

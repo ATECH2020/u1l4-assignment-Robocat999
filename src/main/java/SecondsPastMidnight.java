@@ -7,7 +7,7 @@ class SecondsPastMidnight {
         Scanner scanner = new Scanner(System.in);
 
         //Reads int from user
-        int number = scanner.nextInt();
+        int secInput = scanner.nextInt();
 
         //Your code goes here
         final int SEC_IN_MIN = 60;
