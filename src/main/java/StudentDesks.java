@@ -22,7 +22,7 @@ class StudentDesks {
         deskTotal += deskNeed(numStudentsB, DESK_CAPACITY);
         deskTotal += deskNeed(numStudentsC, DESK_CAPACITY);
 
-        System.out.println(deskTotal);
+        System.out.print(deskTotal);
         // closing the scanner object
         scanner.close();
     }

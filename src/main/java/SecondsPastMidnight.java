@@ -18,7 +18,7 @@ class SecondsPastMidnight {
         hourSince = secInput / SEC_IN_HOUR;
         minSince = secInput / SEC_IN_MIN;
 
-        System.out.println(hourSince + " " + minSince);
+        System.out.print(hourSince + " " + minSince);
 
         // closing the scanner object
         scanner.close();

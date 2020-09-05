@@ -31,7 +31,7 @@ class Timestamps {
         minDif = minDif * 60;
 
         totalSecs = secDif + minDif + hourDif;
-        System.out.println(totalSecs);
+        System.out.print(totalSecs);
         // closing the scanner object
         scanner.close();
     }

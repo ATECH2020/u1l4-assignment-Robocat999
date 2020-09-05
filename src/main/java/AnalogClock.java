@@ -19,7 +19,7 @@ class AnalogClock {
         currentMin = hourDeg * 2;
         minDeg = (currentMin % 60) * DEG_PER_MIN;
 
-        System.out.println(minDeg);
+        System.out.print(minDeg);
         // closing the scanner object
         scanner.close();
     }
